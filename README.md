@@ -11,8 +11,8 @@ The platform centers on **RecruitMaxxing** — the practice of leveraging automa
 | Pillar | Description |
 |---|---|
 | Collective Co-operation & Intelligence | Crowdsourcing recruiter data and interview processes to remove the "black box" of hiring |
-| ✉️ Outreach Automation | Reducing the friction of cold-emailing through templating and verified contact discovery |
-| 🔒 The "Blind" for Students | An exclusive, high-trust environment where students share real-time application status and W's |
+| Outreach Automation | Reducing the friction of cold-emailing through templating and verified contact discovery |
+| The "Blind" for Students | An exclusive, high-trust environment where students share real-time application status and W's |
 
 ---
 
